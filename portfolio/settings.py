@@ -25,7 +25,7 @@ SECRET_KEY = '((h+f=#7!z4mabufb4(7i2s9g_$usl_&dwuodrpg5i+=20@@^&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['melaniefreshness.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
